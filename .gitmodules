@@ -1,0 +1,6 @@
+[submodule "functional/rxcpp/twitter"]
+	path = functional/rxcpp/twitter
+	url = ../../kirkshoop/twitter
+[submodule "functional/rxcpp/rxqt"]
+	path = functional/rxcpp/rxqt
+	url = ../../tetsurom/rxqt
