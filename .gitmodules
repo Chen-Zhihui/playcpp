@@ -4,3 +4,9 @@
 [submodule "functional/rxcpp/rxqt"]
 	path = functional/rxcpp/rxqt
 	url = ../../tetsurom/rxqt
+[submodule "functional/rxcpp/RxCpp"]
+	path = functional/rxcpp/RxCpp
+	url = https://github.com/ReactiveX/RxCpp.git
+[submodule "functional/rxcpp/introductionToRxcpp"]
+	path = functional/rxcpp/introductionToRxcpp
+	url = https://github.com/kirkshoop/introductionToRxcpp.git
